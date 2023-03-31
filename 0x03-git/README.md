@@ -1,1 +1,1 @@
-first tasks for git lesson 
+first tasks for git lesson done 
